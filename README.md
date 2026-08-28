@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Durjoy Mazumder
 ### 🤖 Machine Learning Enthusiast
 
-Durjoy Mazumder is an undergrad student pursuing a B.Sc. in Computer Science and Telecommunication Engineering (CSTE) at Noakhali Science and Technology University.
+I am an undergrad student pursuing a B.Sc. in Computer Science and Telecommunication Engineering (CSTE) at Noakhali Science and Technology University.
+
 
 ---
 
